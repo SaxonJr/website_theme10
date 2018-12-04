@@ -494,7 +494,8 @@ button:focus {
 
 .home_banner_area .banner_inner .banner_content {
   color: #222222;
-  padding-top: 80px;
+  margin-top: -8%;
+  
 }
 
 .home_banner_area .banner_inner .banner_content .col-lg-5 {
@@ -504,10 +505,10 @@ button:focus {
 }
 
 .home_banner_area .banner_inner .banner_content h3 {
-  font-size: 48px;
+  font-size:  100px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  line-height: 60px;
+  line-height: 83px;
   margin-bottom: 20px;
 }
 
